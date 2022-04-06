@@ -12,5 +12,5 @@ This code belongs to one of the project of data science course I did when I was 
 \
 3)Machine Learning\
 -Prediction of song popularity with various machine learning models\
--Efforts on hyper-parameter tuning to increase the performance of models\
+-Efforts on hyper-parameter tuning to increase the performance of models
 
